@@ -3,6 +3,12 @@ Redis Commander in a tiny Docker image powered by Alpine Linux
 
 # How to use this image
 
+Print help:
+
+```bash
+docker run --rm diyan/redis-commander --help
+```
+
 Run Redis server if you don't have it:
 
 ```bash
